@@ -3,7 +3,7 @@
 //if falling back to English anyway, still using Italian messages.
 
 return [
-    'ERROR_MISSING_INPUT' => 'Risposta dell\input mancante.',
+    'ERROR_MISSING_INPUT' => 'Risposta dell\'input mancante.',
     'ERROR_UNABLE_TO_VERIFY' => 'Impossibile verificare.',
     'ERROR_HOSTNAME' => 'L\'hostname non corrisponde.',
     'ERROR_ACTION' => 'L\'azione non corrispone',
