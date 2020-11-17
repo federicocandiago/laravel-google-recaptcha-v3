@@ -1,12 +1,14 @@
 <?php
 
+//if falling back to English anyway, still using Italian messages.
+
 return [
-    'ERROR_MISSING_INPUT' => 'Missing input response.',
-    'ERROR_UNABLE_TO_VERIFY' => 'Unable to verify.',
-    'ERROR_HOSTNAME' => 'Hostname does not match.',
-    'ERROR_ACTION' => 'Action does not match.',
-    'ERROR_SCORE_THRESHOLD' => 'Score does not meet threshold.',
+    'ERROR_MISSING_INPUT' => 'Risposta dell\input mancante.',
+    'ERROR_UNABLE_TO_VERIFY' => 'Impossibile verificare.',
+    'ERROR_HOSTNAME' => 'L\'hostname non corrisponde.',
+    'ERROR_ACTION' => 'L\'azione non corrispone',
+    'ERROR_SCORE_THRESHOLD' => 'Non è possibile verificare la richiesta',
     'ERROR_TIMEOUT' => 'Timeout',
-    'SUCCESS' => 'Successfully passed.',
-    'TIMEOUT_OR_DUPLICATE'=> 'The action is timeout.',
+    'SUCCESS' => 'Operazione completata con successo',
+    'TIMEOUT_OR_DUPLICATE'=> 'Tempo scaduto, è necessario rieffettuare il login',
 ];
