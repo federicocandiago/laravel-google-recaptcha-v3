@@ -8,5 +8,5 @@ return [
     'ERROR_SCORE_THRESHOLD' => 'Non è possibile verificare la richiesta',
     'ERROR_TIMEOUT' => 'Timeout',
     'SUCCESS' => 'Operazione completata con successo',
-    'TIMEOUT_OR_DUPLICATE'=> 'Tempo scaduto, è necessario rieffettuare il login',
+    'TIMEOUT_OR_DUPLICATE'=> 'Sessione scaduta, inserisci nuovamente i dati per entrare nel tuo pannello',
 ];
